@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Welcome to CodeHelp</h1>
+    <table>
+        <tr>
+            <td>
+            <img src="coding.jpeg" alt="coding" width="220px" height="200px">
+            </td>
+            <td>
+               <header>
+                <nav>
+                    <ul>
+                        <li><a href="#About">About</a></li>
+                        <li><a href="#Roadmap">Roadmap videos</a></li>
+                        <li><a href="#web">Web Development videos</a></li>
+                        <li><a href="#dsa">DSA videos</a></li>
+                        <li><a href="#app">App Development</a></li>
+                    </ul>
+                </nav>
+               </header> 
+            </td>
+        </tr>
+    </table>
+    
+    <section id = About>
+        <h2>About Codehelp</h2>
+        <p>CodeHelp's Mission is to make coding education accessible to everyone, regardless of their background or exprience. Codehelp offers a variety of courses on a variety of topics, including web development, data science and machine learning. Each course is taught by a team of exprienced engineers who are passionate about teaching. CodeHelp also offers a variety of resources to help students learn, including practice problems, coding challenges where students can ask questions and get help from other students and instructors.CodeHelp is a great option for anyone who wants to learn to code. It offers a variety of courses, experienced instructors and a variety of resources to help students learn. CodeHelp is also affordable making it a great option for students on a budget.</p>
+    </section>
+
+    <section>
+        <h2>Additional Media</h2>
+        <table>
+            <tr>
+                <td>
+                    <audio controls muted>
+                        <source src="file_example_MP3_700KB.mp3" type = "audio/mp3">
+                    </audio>
+                </td>
+                <td>
+                    <iframe width="560" height="315" src="https://www.youtube.com/embed/f6UU7V3szVw?si=RfpAAZzO3RtJ0Bqm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                </td>
+            </tr>
+        </table>
+    </section><br>
+
+    <section id = Roadmap>
+        <h2>Roadmap videos</h2>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/MkcfB7S4fq0?si=PW_VlAJUMLcoarzp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/MkcfB7S4fq0?si=PW_VlAJUMLcoarzp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/MkcfB7S4fq0?si=PW_VlAJUMLcoarzp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/MkcfB7S4fq0?si=PW_VlAJUMLcoarzp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/MkcfB7S4fq0?si=PW_VlAJUMLcoarzp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/MkcfB7S4fq0?si=PW_VlAJUMLcoarzp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </section><br>
+
+    <section id = web>
+        <h2>Web Development videos</h2>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/ESnrn1kAD4E?si=8_GmEj6VqAdJEnkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/ESnrn1kAD4E?si=8_GmEj6VqAdJEnkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/ESnrn1kAD4E?si=8_GmEj6VqAdJEnkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/ESnrn1kAD4E?si=8_GmEj6VqAdJEnkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/ESnrn1kAD4E?si=8_GmEj6VqAdJEnkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/ESnrn1kAD4E?si=8_GmEj6VqAdJEnkZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </section><br>
+
+    <section id = dsa>
+        <h2>DSA videos</h2>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/rZ41y93P2Qo?si=nAZ5cdkFLdLA8b86" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/rZ41y93P2Qo?si=nAZ5cdkFLdLA8b86" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/rZ41y93P2Qo?si=nAZ5cdkFLdLA8b86" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/rZ41y93P2Qo?si=nAZ5cdkFLdLA8b86" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/rZ41y93P2Qo?si=nAZ5cdkFLdLA8b86" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/rZ41y93P2Qo?si=nAZ5cdkFLdLA8b86" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </section><br>
+
+    <section id = app>
+        <h2>App Development</h2>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/fis26HvvDII?si=vzVN68CCd0Eoz6oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/fis26HvvDII?si=vzVN68CCd0Eoz6oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/fis26HvvDII?si=vzVN68CCd0Eoz6oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/fis26HvvDII?si=vzVN68CCd0Eoz6oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/fis26HvvDII?si=vzVN68CCd0Eoz6oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="440" height="215" src="https://www.youtube.com/embed/fis26HvvDII?si=vzVN68CCd0Eoz6oJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </section> <br>
+
+    <footer>&copy; 2023 rishikaagarwal.All rights reserved</footer>
+
+</body>
+</html>
